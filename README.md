@@ -1,6 +1,6 @@
 # mac-changer
 
-📦 Installation
+##📦 Installation
 
 git clone https://github.com/tareqxploit/mac-changer.git
 
