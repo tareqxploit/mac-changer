@@ -8,6 +8,10 @@ cd mac-changer
 ```
 ⚙️ Usage
 
+🔐 Permissions
+
+Since MAC address changing requires administrative access, you must run this script with `sudo`.
+
 Run the script with the required options:
 ```bash
 sudo python3 mac_changer.py -i <interface> -m <new_mac_address>
